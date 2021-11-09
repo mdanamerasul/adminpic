@@ -2,7 +2,7 @@
   "build": {
     "env": {
       "NEXT_PUBLIC_REST_API_ENDPOINT": "https://api.sparkfilter.store/",
-      "NEXT_PUBLIC_SHOP_URL": "https://pickbazar-react-rest.vercel.app"
+      "NEXT_PUBLIC_SHOP_URL": "adminpic-r5br4cek8-mdanamerasul.vercel.app"
     }
   }
 }
