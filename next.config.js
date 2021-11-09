@@ -16,7 +16,7 @@ module.exports = withPWA({
       "adminpic.vercel.app",
       "www.sparkfilter.xyz",
       "sparkfilter.xyz",
-      "api.sparkfilter.store"
+      "api.sparkfilter.store",
 
 
       "via.placeholder.com",
